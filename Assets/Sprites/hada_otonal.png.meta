@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 926c32d7c08d1f3439220a16fe588e58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 194761217454669920
+    second: hada_otonal_0
+  - first:
+      213: 7372186435136879873
+    second: hada_otonal_1
+  - first:
+      213: 6634584384612636269
+    second: hada_otonal_2
+  - first:
+      213: 7957442336373270108
+    second: hada_otonal_3
+  - first:
+      213: -1896740936842145383
+    second: hada_otonal_4
+  - first:
+      213: -3838111966842349686
+    second: hada_otonal_5
+  - first:
+      213: -2546757469111806906
+    second: hada_otonal_6
+  - first:
+      213: 5681918997628187449
+    second: hada_otonal_7
+  - first:
+      213: 653710580578997101
+    second: hada_otonal_8
+  - first:
+      213: 6178759468094628751
+    second: hada_otonal_9
+  - first:
+      213: -8666387914319390060
+    second: hada_otonal_10
+  - first:
+      213: 2309048209385352650
+    second: hada_otonal_11
+  - first:
+      213: 2020583585005289037
+    second: hada_otonal_12
+  - first:
+      213: -8555667485942761791
+    second: hada_otonal_13
+  - first:
+      213: 3740895433124343483
+    second: hada_otonal_14
+  - first:
+      213: -5900766443403588449
+    second: hada_otonal_15
+  - first:
+      213: 7721663769500600350
+    second: hada_otonal_16
+  - first:
+      213: -1475654378964683576
+    second: hada_otonal_17
+  - first:
+      213: 7926005034761867404
+    second: hada_otonal_18
+  - first:
+      213: -6643415353308144904
+    second: hada_otonal_19
+  - first:
+      213: -3911953520325842111
+    second: hada_otonal_20
+  - first:
+      213: -6045243451127165872
+    second: hada_otonal_21
+  - first:
+      213: -1855789462085527736
+    second: hada_otonal_22
+  - first:
+      213: 8889956750194049007
+    second: hada_otonal_23
+  - first:
+      213: 7982453015824494649
+    second: hada_otonal_24
+  - first:
+      213: 3886310117199340756
+    second: hada_otonal_25
+  - first:
+      213: -4645449659510083574
+    second: hada_otonal_26
+  - first:
+      213: 3433537363428668303
+    second: hada_otonal_27
+  - first:
+      213: 5938416534701353538
+    second: hada_otonal_28
+  - first:
+      213: 8606591594364537597
+    second: hada_otonal_29
+  - first:
+      213: 6577462182412566759
+    second: hada_otonal_30
+  - first:
+      213: 5308981159023753406
+    second: hada_otonal_31
+  - first:
+      213: 8557546213066967234
+    second: hada_otonal_32
+  - first:
+      213: -7355703012185323993
+    second: hada_otonal_33
+  - first:
+      213: -8694529847632699081
+    second: hada_otonal_34
+  - first:
+      213: -31623018474948538
+    second: hada_otonal_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hada_otonal_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 69
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060886e9b4ee3b200800000000000000
+      internalID: 194761217454669920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 70
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d7944d0844f4660800000000000000
+      internalID: 7372186435136879873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 69
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d669035a857c21c50800000000000000
+      internalID: 6634584384612636269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 68
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56ee2405a38e6e60800000000000000
+      internalID: 7957442336373270108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 69
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9911594da2c6da5e0800000000000000
+      internalID: -1896740936842145383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 70
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a879f2850894cbac0800000000000000
+      internalID: -3838111966842349686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 69
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644948c339918acd0800000000000000
+      internalID: -2546757469111806906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 68
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933fb28693b3ade40800000000000000
+      internalID: 5681918997628187449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 52
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63535d3f42721900800000000000000
+      internalID: 653710580578997101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 53
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83ac50fffc5fb550800000000000000
+      internalID: 6178759468094628751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 52
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a1141cb1ecab780800000000000000
+      internalID: -8666387914319390060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 51
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd6aa1dc136b0020800000000000000
+      internalID: 2309048209385352650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 52
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eb937a01e8a0c10800000000000000
+      internalID: 2020583585005289037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 53
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6b50c50c9244980800000000000000
+      internalID: -8555667485942761791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 52
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbee14983945ae330800000000000000
+      internalID: 3740895433124343483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 51
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c426eee244c1ea0800000000000000
+      internalID: -5900766443403588449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e184618894cd82b60800000000000000
+      internalID: 7721663769500600350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 36
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c47f82292c658be0800000000000000
+      internalID: -1475654378964683576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 35
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8050f8d593defd60800000000000000
+      internalID: 7926005034761867404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 34
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa11ba3fe8ddc3a0800000000000000
+      internalID: -6643415353308144904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 35
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ba32beff2f5b9c0800000000000000
+      internalID: -3911953520325842111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 36
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c0fca3c1bfa1ca0800000000000000
+      internalID: -6045243451127165872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 35
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8479a7e0159ee36e0800000000000000
+      internalID: -1855789462085527736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 34
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feff6e330987f5b70800000000000000
+      internalID: 8889956750194049007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930f67c99be57ce60800000000000000
+      internalID: 7982453015824494649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 19
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d46ca60672fee530800000000000000
+      internalID: 3886310117199340756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 18
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0031f6b52c088fb0800000000000000
+      internalID: -4645449659510083574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 17
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8372365a0066af20800000000000000
+      internalID: 3433537363428668303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a2e2f006e796250800000000000000
+      internalID: 5938416534701353538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_29
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 19
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa06f49471c07770800000000000000
+      internalID: 8606591594364537597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 18
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0444a8107d74b50800000000000000
+      internalID: 6577462182412566759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 17
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb83ad66c3a4da940800000000000000
+      internalID: 5308981159023753406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c888d2e0f282c670800000000000000
+      internalID: 8557546213066967234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_33
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7264c65251b4be990800000000000000
+      internalID: -7355703012185323993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_34
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73162de4b23d65780800000000000000
+      internalID: -8694529847632699081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hada_otonal_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64833114807af8ff0800000000000000
+      internalID: -31623018474948538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d70686126118e2c4ca5e7a956b9c047d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hada_otonal_0: 194761217454669920
+      hada_otonal_1: 7372186435136879873
+      hada_otonal_10: -8666387914319390060
+      hada_otonal_11: 2309048209385352650
+      hada_otonal_12: 2020583585005289037
+      hada_otonal_13: -8555667485942761791
+      hada_otonal_14: 3740895433124343483
+      hada_otonal_15: -5900766443403588449
+      hada_otonal_16: 7721663769500600350
+      hada_otonal_17: -1475654378964683576
+      hada_otonal_18: 7926005034761867404
+      hada_otonal_19: -6643415353308144904
+      hada_otonal_2: 6634584384612636269
+      hada_otonal_20: -3911953520325842111
+      hada_otonal_21: -6045243451127165872
+      hada_otonal_22: -1855789462085527736
+      hada_otonal_23: 8889956750194049007
+      hada_otonal_24: 7982453015824494649
+      hada_otonal_25: 3886310117199340756
+      hada_otonal_26: -4645449659510083574
+      hada_otonal_27: 3433537363428668303
+      hada_otonal_28: 5938416534701353538
+      hada_otonal_29: 8606591594364537597
+      hada_otonal_3: 7957442336373270108
+      hada_otonal_30: 6577462182412566759
+      hada_otonal_31: 5308981159023753406
+      hada_otonal_32: 8557546213066967234
+      hada_otonal_33: -7355703012185323993
+      hada_otonal_34: -8694529847632699081
+      hada_otonal_35: -31623018474948538
+      hada_otonal_4: -1896740936842145383
+      hada_otonal_5: -3838111966842349686
+      hada_otonal_6: -2546757469111806906
+      hada_otonal_7: 5681918997628187449
+      hada_otonal_8: 653710580578997101
+      hada_otonal_9: 6178759468094628751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
